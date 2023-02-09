@@ -1025,10 +1025,13 @@ label {
   top: 65px;
   left: 640px;
 }
-
 #azami {
   top: 65px;
   left: 685px;
+}
+#solis {
+  top: 65px;
+  left: 730px;
 }
 /* 攻撃側オペレーターアイコン位置決め */
 #sledge {
