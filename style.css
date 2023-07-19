@@ -1033,6 +1033,10 @@ label {
   top: 65px;
   left: 730px;
 }
+#fenrir {
+  top: 65px;
+  left: 775px;
+}
 /* 攻撃側オペレーターアイコン位置決め */
 #sledge {
   top: 15px;
@@ -1161,6 +1165,14 @@ label {
 #sens {
   top: 65px;
   left: 685px;
+}
+#grim {
+  top: 65px;
+  left: 730px;
+}
+#brava {
+  top: 65px;
+  left: 775px;
 }
 #kattu {
   top: 65px;
